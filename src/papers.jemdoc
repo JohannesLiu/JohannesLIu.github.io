@@ -1,0 +1,31 @@
+# jemdoc: menu{MENU}{papers.html}
+= Papers
+
+== Conference Paper
+
+- [https://www.flyinghuster.com/2022/10/02/matt-a-multiple-instance-attention-mechanism-for-long-tail-music-genre-classification/ MATT: A Multiple-instance Attention Mechanism for Long-tail Music Genre Classification]\n
+*__Xiaokai Liu__*, Shihui Song, Menghua Zhang, Yafan Huang\*\n
+*\[SMC'22\]*: IEEE International Conference on Systems, Man, and Cybernetics, 2022\n
+\[[https://arxiv.org/abs/2209.04109 Paper]\]
+\[[file/slides/Research_Session_19_Paper_170_LeKAN_Extracting_Long-tail_Relations_Xiaokai.pptx Slides]\]
+\[Video\]
+\[[https://github.com/JohannesLiu/Music-Genre-Classification Code ]\]
+
+- [https://www.flyinghuster.com/2022/10/02/lekan-extracting-long-tail-relations-via-layer-enhanced-knowledge-aggregation-networks/ LeKAN: Extracting Long-tail Relations via Layer-Enhanced Knowledge-Aggregation Networks]\n
+*__Xiaokai Liu__*, Feng Zhao\*, Xiangyu Gui, Hai Jin\n
+*\[DASFAA'22\]*: International Conference on Database Systems for Advanced Applications, 2022\n
+\[[https://link.springer.com/chapter/10.1007/978-3-031-00123-9_9 Paper]\] \[[file/slides/Research_Session_19_Paper_170_LeKAN_Extracting_Long-tail_Relations_Xiaokai.pptx Slides]\] \[[https://www.bilibili.com/video/BV1LL411A7VJ/?spm_id_from=333.999.0.0 Video]\] \[[https://github.com/JohannesLiu/Layer-enhanced-Knowledge-Aggregation-Networks Code]\] \[[https://mp.weixin.qq.com/s?__biz=MzU2MjUxMDk2Nw==&mid=2247491575&idx=1&sn=b416c9e97bac9ddc70f7824d61465b36&chksm=fc6932efcb1ebbf940f8d08db511ee4a71290c44dac0440d88a04cbdc28f694b7fb6c5d43b74&mpshare=1&scene=1&srcid=1004xHfp74ayUt4l2nqTK0cA&sharer_sharetime=1664835229295&sharer_shareid=83f2ab5d8e0765ab67801cd1b7ee8b29\#rd Media]\]
+
+- [https://www.flyinghuster.com/2022/03/28/predicting-rna-molecular-specific-hybridization-via-random-forest/ Predicting RNA Molecular Specific Hybridization via Random Forest]\n
+Weijun Zhu,*__Xiaokai Liu__*, Zhenfei Wang\*, Yongwen Fan, Jianwei Wang\n
+*\[ICBCB'19\]*: IEEE International Conference on Bioinformatics and Computational Biology, 2019\n
+\[[https://ieeexplore.ieee.org/abstract/document/8854665  Paper]\]
+\[[file/slides/ICBCB-19.pptx Slides]\]
+
+== Journal Paper
+
+- [https://www.flyinghuster.com/2022/03/28/predicting-the-results-of-rna-molecular-specific-hybridization-using-machine-learning/ Predicting the results of RNA molecular specific hybridization using machine learning]\n
+Weijun Zhu, *__Xiaokai Liu__*, Mingliang Xu, Huanmei Wu\n
+*\[IEEE/CAA'19\]*: IEEE\/CAA Journal of Automatica Sinica, 2019, 13 pages\n
+\[[https://ieeexplore.ieee.org/abstract/document/8894749  Paper]\]
+

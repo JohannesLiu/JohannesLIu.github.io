@@ -1,0 +1,26 @@
+# jemdoc: menu{MENU}{mylab.html}
+= My Lab
+
+== Johannes's Lab in HUST (2019-2022)
+=== Main Equipments in Lab
+Johannes's self raised and self built laboratory (2019-2022) with equipment above 2500$ includes:
+
+~~~
+{}{table}{Equipments (Above 2500$) of Johannes's Laboratory}
+|Brand|Type|Price||
+|Dell |R730 2U Rack Server |3500\$||
+|Dell |R740XD 2U Rack Server |4000\$||
+|Thinkpad |P71 Mobile Workstation|2500\$||
+|ASUS |SAGE Workstation|3000\$||
+~~~
+
+==== Weak Power Typology of Johannes's Lab
+The weak power topology of the first generation personal lab is shown as following:
+
+{{
+<table><tr>
+    <td>
+        <img src="image/lab/MyLabInHust.png" width="769" height="637" >
+    </td>
+</tr>
+}}

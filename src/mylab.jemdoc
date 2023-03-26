@@ -1,7 +1,8 @@
 # jemdoc: menu{MENU}{mylab.html}
 = Hyper Computation Center
 
-“Life is limited, ReDevOps(Research & Development & Operation) makes it infinity.”  --- Johannes Liu
+
+“Life is limited, ReDevOps(Research & Development & Operation) makes it infinity."  --- Johannes Liu
 
 == Introduction
 Hyper Computation Center(HCC) is an specific implementation of the experimental management module, which is contained in the theory of ReDevOps, proposed by Johannes. ReDevOps can be regarded as a deviation version of DevOps, which is specific for the research activities. Different from the traditional theory of devops, ReDevOps focuses more on how to combine research, development, and operation and maintenance to help do research efficiently. The ultimate purpose of ReDevOps is to help end the meaningless labor for scientific research. The ReDevOps can be regarded to the Gitbook[https://github.com/JohannesLiu/ReDevOps Link], written by Johannes. Johannes is about to finish this book in the year of 2023, as a gift for his Ph.D. career.
@@ -10,7 +11,7 @@ Hyper Computation Center(HCC) is an specific implementation of the experimental 
 
 == The history of Hyper Computation Center
 
-== Hyper Computation Center (Johannes's Third Generation Lab) (2023 - Present)
+== Third Generation of HCC (2023 - Present)
 === Introduction
 
 The second generation of Johannes's lab makes the working environment mobile. Johannes can easily put his environment into his bag. However, the second generation of Johannes's Lab has the following flaws:
@@ -21,7 +22,7 @@ The second generation of Johannes's lab makes the working environment mobile. Jo
 Awarded of these requirements, Johannes reconstructed his secondary generation lab to the new construction. Due to the fact that the third generation Johannes' laboratory has even oversteps the enterprise level standards, Johannes named his laboratory Hyper Computing Center. Johannes hopes more and more research could leverages his infrastructures for the efficient experiments.
 
 
-== Johannes's Secondary Generation Lab (2022 - 2023)
+== Second Generation of HCC (2022 - 2023)
 === Introduction
 Since Johannes left Huazhong University of Science and Technology, Johannes lost his convenient work environment. Johannes cannot leverage his infrastructures to for his work. The only thing he can relied is his old friend, the mobile thinkpad workstation, which cannot help Johannes face the quickly changing working environment. To help improve his work, quickly carrying out experiments, and be an independent research. It costs Johannes 1 month to reconstruct his second generation lab.
 
@@ -32,7 +33,7 @@ Compared with the first generation lab, the second generation lab enables,
 4. Mobile scientific workspace.
 5. Enterprise Management Mode.
 
-== Johannes's Lab in HUST (2019-2022)
+== First Generation of HCC(2019-2022)
 === Introduction
 
 === Main Equipments in Lab

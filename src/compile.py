@@ -7,7 +7,7 @@ compile_list = ["index.jemdoc",
                 "talks.jemdoc",
                 "edge-music.jemdoc",
                 "papers.jemdoc",
-                # "books.jemdoc",
+                # "opensource-books.jemdoc",
                 "awards.jemdoc",
                 "service.jemdoc",
                 "edge-hsc.jemdoc"

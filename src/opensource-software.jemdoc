@@ -1,0 +1,39 @@
+# jemdoc: menu{MENU}{opensource-software.html}
+= Software
+
+== Open Source Research Software
+
+{{<font color=blue size=+1.5><b>}}
+
+1. [https://github.com/JohannesLiu/Music-Genre-Classification Music-Genre-Classification Toolbox]
+
+2. [https://github.com/JohannesLiu/Layer-enhanced-Knowledge-Aggregation-Networks Layer-enhanced-Knowledge-Aggregation-Networks]
+
+3. [https://github.com/JohannesLiu/HNRE-Pytorch HNRE-Pytorch]
+
+4. [https://github.com/JohannesLiu/Apollo-Cyber-Parser Apollo-Cyber-Parser]
+
+5. [https://github.com/JohannesLiu/Deep-Learning-Loss-Function-Collection-for-Imbalanced-Data Deep-Learning-Loss-Function-Collection-for-Imbalanced-Data]
+
+6. [https://github.com/JohannesLiu/PINFI-Parallel-Fault-Injection PINFI-Parallel-Fault-Injection]
+
+7. [https://github.com/JohannesLiu/LLVM-Pass-Analysis-Collection LLVM-Pass-Analysis-Collection]
+
+{{</b></font>}}
+
+
+== Open Source Engineering Software
+
+{{<font color=blue size=+1.5><b>}}
+
+1. [https://github.com/JohannesLiu/KowledgeGraph-System-Collection KnowledgeGraph-System-Collection]
+
+2. [https://github.com/JohannesLiu/Resource-Pool Resource-Pool]
+
+3. [https://github.com/JohannesLiu/SmartKartRider SmartKartRider]
+
+4. [https://github.com/JohannesLiu/MaplestoryM-Assistant MaplestoryM-Assistant]
+
+5. [https://github.com/JohannesLiu/CNC4-Tiberian-Twilight-Remaster Command&Conquer4-Tiberian-Twilight-Remaster]
+
+{{</b></font>}}

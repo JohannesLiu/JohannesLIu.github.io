@@ -9,7 +9,7 @@ Hyper Simulation Center(HSC) is an specific implementation of the experimental m
 
 == The history of Hyper Simulation Center
 
-=== Third Generation of HSC (2023 - Present)
+=== HSC Gen3(2023 - Present)
 ==== Introduction
 
 The second generation of Johannes's lab makes the working environment mobile. Johannes can easily put his environment into his bag. However, the second generation of Johannes's Lab has the following flaws: \n
@@ -21,7 +21,7 @@ The second generation of Johannes's lab makes the working environment mobile. Jo
 Awarded of these requirements, Johannes reconstructed his secondary generation lab to the new construction. Due to the fact that the third generation Johannes' laboratory has even oversteps the enterprise level standards, Johannes named his laboratory Hyper Simulation Center. Johannes hopes more and more research could leverages his infrastructures for the efficient experiments.\n
 
 
-=== Second Generation of HSC (2022 - 2023)
+=== HSC Gen2(2022 - 2023)
 ==== Introduction
 Since Johannes left Huazhong University of Science and Technology, Johannes lost his convenient work environment. Johannes cannot leverage his infrastructures to for his work. The only thing he can relied is his old friend, the mobile thinkpad workstation, which cannot help Johannes face the quickly changing working environment. To help improve his work, quickly carrying out experiments, and be an independent research. It costs Johannes 1 month to reconstruct his second generation lab.\n
 
@@ -32,7 +32,21 @@ Compared with the first generation lab, the second generation lab enables,\n
 4. Mobile scientific workspace.\n
 5. Enterprise Management Mode.\n
 
-=== First Generation of HSC(2019-2022)
+
+{{
+<table border="0px"><tr>
+    <td>
+        <img src="image/lab/hsc-top-2.0.png" width="1000" height="1120" >
+    </td>
+    <td>
+        <img src="image/lab/hsc-net-2.0.png" width="1000" height="571" >
+    </td>
+</tr>
+</table>
+}}
+
+
+=== HSC Gen1(2019-2022)
 
 ==== Main Equipments in Lab
 Johannes's self raised and self built laboratory (2019-2022) with equipment above 2500$ includes:

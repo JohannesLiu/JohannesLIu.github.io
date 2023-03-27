@@ -1,23 +1,23 @@
 # jemdoc: menu{MENU}{opensource-software.html}
-= Software
+= Open Source Software
 
 == Open Source Research Software
 
 {{<font color=blue size=+1.5><b>}}
 
-1. [https://github.com/JohannesLiu/Music-Genre-Classification Music-Genre-Classification Toolbox]
+1. [https://github.com/JohannesLiu/Music-Genre-Classification Music-Genre-Classification Toolbox]\n
 
-2. [https://github.com/JohannesLiu/Layer-enhanced-Knowledge-Aggregation-Networks Layer-enhanced-Knowledge-Aggregation-Networks]
+2. [https://github.com/JohannesLiu/Layer-enhanced-Knowledge-Aggregation-Networks Layer-enhanced-Knowledge-Aggregation-Networks]\n
 
-3. [https://github.com/JohannesLiu/HNRE-Pytorch HNRE-Pytorch]
+3. [https://github.com/JohannesLiu/HNRE-Pytorch HNRE-Pytorch]\n
 
-4. [https://github.com/JohannesLiu/Apollo-Cyber-Parser Apollo-Cyber-Parser]
+4. [https://github.com/JohannesLiu/Apollo-Cyber-Parser Apollo-Cyber-Parser]\n
 
-5. [https://github.com/JohannesLiu/Deep-Learning-Loss-Function-Collection-for-Imbalanced-Data Deep-Learning-Loss-Function-Collection-for-Imbalanced-Data]
+5. [https://github.com/JohannesLiu/Deep-Learning-Loss-Function-Collection-for-Imbalanced-Data Deep-Learning-Loss-Function-Collection-for-Imbalanced-Data]\n
 
-6. [https://github.com/JohannesLiu/PINFI-Parallel-Fault-Injection PINFI-Parallel-Fault-Injection]
+6. [https://github.com/JohannesLiu/PINFI-Parallel-Fault-Injection PINFI-Parallel-Fault-Injection]\n
 
-7. [https://github.com/JohannesLiu/LLVM-Pass-Analysis-Collection LLVM-Pass-Analysis-Collection]
+7. [https://github.com/JohannesLiu/LLVM-Pass-Analysis-Collection LLVM-Pass-Analysis-Collection]\n
 
 {{</b></font>}}
 
@@ -26,14 +26,14 @@
 
 {{<font color=blue size=+1.5><b>}}
 
-1. [https://github.com/JohannesLiu/KowledgeGraph-System-Collection KnowledgeGraph-System-Collection]
+1. [https://github.com/JohannesLiu/KowledgeGraph-System-Collection KnowledgeGraph-System-Collection]\n
 
-2. [https://github.com/JohannesLiu/Resource-Pool Resource-Pool]
+2. [https://github.com/JohannesLiu/Resource-Pool Resource-Pool]\n
 
-3. [https://github.com/JohannesLiu/SmartKartRider SmartKartRider]
+3. [https://github.com/JohannesLiu/SmartKartRider SmartKartRider]\n
 
-4. [https://github.com/JohannesLiu/MaplestoryM-Assistant MaplestoryM-Assistant]
+4. [https://github.com/JohannesLiu/MaplestoryM-Assistant MaplestoryM-Assistant]\n
 
-5. [https://github.com/JohannesLiu/CNC4-Tiberian-Twilight-Remaster Command&Conquer4-Tiberian-Twilight-Remaster]
+5. [https://github.com/JohannesLiu/CNC4-Tiberian-Twilight-Remaster Command&Conquer4-Tiberian-Twilight-Remaster]\n
 
 {{</b></font>}}

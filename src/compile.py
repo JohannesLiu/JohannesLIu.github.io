@@ -9,6 +9,7 @@ compile_list = ["index.jemdoc",
                 "papers.jemdoc",
                 "opensource-books.jemdoc",
                 "opensource-software.jemdoc",
+                "opensource-datasets.jemdoc",
                 "awards.jemdoc",
                 "service.jemdoc",
                 "edge-hsc.jemdoc"

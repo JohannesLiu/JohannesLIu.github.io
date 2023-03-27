@@ -36,10 +36,10 @@ Compared with the first generation lab, the second generation lab enables,\n
 {{
 <table border="0px"><tr>
     <td>
-        <img src="image/lab/hsc-top-2.0.png" width="562" height="500" >
+        <img src="image/lab/hsc-top-2.0.png" width="690" height="400" >
     </td>
     <td>
-        <img src="image/lab/hsc-net-2.0.png" width="875" height="500" >
+        <img src="image/lab/hsc-net-2.0.png" width="700" height="400" >
     </td>
 </tr>
 </table>
@@ -65,7 +65,7 @@ The weak power topology of the first generation personal lab is shown as followi
 {{
 <table><tr>
     <td>
-        <img src="image/lab/MyLabInHust.png" width="769" height="637" >
+        <img src="image/lab/MyLabInHust.png" width="480" height="400" >
     </td>
 </tr>
 }}

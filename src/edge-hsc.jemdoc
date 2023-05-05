@@ -15,7 +15,6 @@ Note that: This work environment is not suitable for those who has limited resea
 ==== Introduction
 ~~~
 {}{img_left}{image/lab/HSC-China-Center-Server.png}{}{391px}{220px}
-~~~
 
 The second generation of Johannes's lab makes the working environment mobile. Johannes can easily put his environment into his bag. However, the second generation of Johannes's Lab has the following flaws: \n
 1. Lack of Quick Deployment of Scientific Tools. \n
@@ -24,6 +23,8 @@ The second generation of Johannes's lab makes the working environment mobile. Jo
 4. Lack of Quick Reproduction of Previous Work Environment. \n
 
 Awarded of these requirements, Johannes reconstructed his secondary generation lab to the new construction. Due to the fact that the third generation Johannes' laboratory has even oversteps the enterprise level standards, Johannes named his laboratory Hyper Simulation Center. Johannes hopes more and more researchers and engineers could leverages his infrastructures for the efficient experiments.\n
+
+~~~
 
 
 === HSC Gen2(2022 - 2023)

@@ -14,7 +14,7 @@ Note that: This work environment is not suitable for those who has limited resea
 === HSC Gen3(2023 - Present)
 ==== Introduction
 ~~~
-{Center-Node of HSC-China}{img_left}{image/lab/HSC-China-Center-Server.png}{Center-Node of HSC-China}{291px}{220px}{Center-Node of HSC-China}
+{Center-Node of HSC-China}{img_left}{image/lab/HSC-China-Center-Server.png}{Center-Node of HSC-China}{291px}{220px}[Center-Node of HSC-China]
 
 The second generation of Johannes's lab makes the working environment mobile. Johannes can easily put his environment into his bag. However, the second generation of Johannes's Lab has the following flaws: \n
 1. Lack of Quick Deployment of Scientific Tools. \n

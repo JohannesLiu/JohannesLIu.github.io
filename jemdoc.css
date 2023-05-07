@@ -385,16 +385,21 @@ table.imgtable, table.imgtable td {
   clear: both;
 }
 
-    .left {
-        width: 300px;
-        height: 500px;
-        background-color: white;
-        float: left;
-        /* position: absolute; */
-    }
-    .right {
-        width: calc(100% - 300px);
-        height: 500px;
-        background-color: white;
-        margin-left: 300px;
-    }
+.left {
+	width: 300px;
+	height: 500px;
+	background-color: white;
+	float: left;
+	/* position: absolute; */
+}
+.right {
+	width: calc(100% - 300px);
+	height: 500px;
+	background-color: white;
+	margin-left: 300px;
+}
+
+table_noboard {
+  border-collapse: collapse;
+  border-spacing: 0;
+}

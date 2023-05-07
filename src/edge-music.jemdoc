@@ -10,7 +10,7 @@ Bilibili Channel: [https://space.bilibili.com/82110795 https:\/\/space.bilibili.
 Youtube Channel: [https://www.youtube.com/channel/UCr6rW8MB-VSlcNvuw2cbzEA https:\/\/www.youtube.com\/channel\/UCr6rW8MB-VSlcNvuw2cbzEA]
 
 {{
-<table style="border: none;">
+<table_noboard>
 <tr>
     <td>
         <img src="image/hust-new-year-concert.jpg" width="350" height="225" >
@@ -25,7 +25,7 @@ Youtube Channel: [https://www.youtube.com/channel/UCr6rW8MB-VSlcNvuw2cbzEA https
         <p>Online Performance </p>
     </td>
 </tr>
-</table>
+</table_noboard>
 }}
 
 

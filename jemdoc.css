@@ -399,7 +399,7 @@ table.imgtable, table.imgtable td {
 	margin-left: 300px;
 }
 
-table_noboard {
-  border-collapse: collapse;
-  border-spacing: 0;
-}
+/*table_noboard {*/
+/*  border-collapse: collapse;*/
+/*  border-spacing: 0;*/
+/*}*/

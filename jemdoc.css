@@ -403,3 +403,19 @@ table.imgtable, table.imgtable td {
 /*  border-collapse: collapse;*/
 /*  border-spacing: 0;*/
 /*}*/
+
+.container {
+	display: flex; /* 将容器设置为弹性盒子 */
+	flex-wrap: wrap; /* 自动换行 */
+	justify-content: space-between; /* 将图片平均分布在容器中 */
+}
+.item {
+	flex-basis: 30%; /* 设置每个项目的基本宽度 */
+	margin-bottom: 20px; /* 添加下边距 */
+	text-align: center; /* 图片和题目居中对齐 */
+}
+.item img {
+	max-width: 100%; /* 图片最大宽度为容器的30% */
+	display: block; /* 去除图片默认的行内元素间距 */
+	margin: 0 auto 10px; /* 添加下边距和水平居中 */
+}

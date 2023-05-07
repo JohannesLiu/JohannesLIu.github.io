@@ -10,18 +10,20 @@ Bilibili Channel: [https://space.bilibili.com/82110795 https:\/\/space.bilibili.
 Youtube Channel: [https://www.youtube.com/channel/UCr6rW8MB-VSlcNvuw2cbzEA https:\/\/www.youtube.com\/channel\/UCr6rW8MB-VSlcNvuw2cbzEA]
 
 {{
-<figure>
-    <img src="image/hust-new-year-concert.jpg" alt="图片1" style="width: 33.33%;">
-    <figcaption>2020 New Year Concert of HUST</figcaption>
-</figure>
-<figure>
-    <img src="image/concert-flying.jpg" alt="图片2" style="width: 33.33%;">
-    <figcaption>2016 Concert of Flying Music Association in ZZU</figcaption>
-</figure>
-<figure>
-    <img src="image/play-violin.png" alt="图片3" style="width: 33.33%;">
-    <figcaption>Online Performance </figcaption>
-</figure>
+<div class="container">
+    <div class="item">
+        <img src="image/hust-new-year-concert.jpg" width="350" height="225" >
+        <p>2020 New Year Concert of HUST </p>
+    </div>
+    <div class="item">
+        <img src="image/concert-flying.jpg" width="350" height="225" >
+        <p>2016 Concert of Flying Music Association in ZZU</p>
+    </div>
+    <div class="item">
+        <img src="image/play-violin.png" width="350" height="225" >
+        <p>Online Performance </p>
+    </div>
+</div>
 }}
 
 

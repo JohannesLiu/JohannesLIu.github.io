@@ -1541,7 +1541,7 @@ def procfile(f):
           out(f.outf, ' />')
           if g[6]:
             out(f.outf, '</a>')
-          out(f.outf, "<center>" + g[3] + "</center>" '&nbsp;</td>\n<td align="left">')
+          out(f.outf, "<center>" + g[3] + "</center>" + '&nbsp;</td>\n<td align="left">')
           imgblock = True
 
         else:

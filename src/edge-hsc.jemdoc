@@ -41,16 +41,19 @@ Compared with the first generation lab, the second generation lab enables,\n
 
 
 {{
-<table border="0px"><tr>
-    <td>
+<div class="container">
+    <div class="item">
         <img src="image/lab/hsc-top-2.0.png" width="550" height="400" >
-    </td>
-    <td>
+        <p>The Week Typology of HSC Gen2</p>
+    </div>
+    <div class="item">
         <img src="image/lab/hsc-net-2.0.png" width="700" height="400" >
-    </td>
-</tr>
-</table>
+        <p>The Typology of Network for HSC Gen2</p>
+    </div>
+</div>
+<center>Hyper Simulation Center Gen1 </center>
 }}
+
 
 
 === HSC Gen1(2019-2022)
@@ -75,14 +78,14 @@ The weak power topology and the corresponding workbench of the HSC Gen1 is shown
 <div class="container">
     <div class="item">
         <img src="image/lab/workbench_in_NCC.webp" width="530" height="400" >
-        <p>Workbench of HSC Gen1 </p>
+        <p>Workbench of HSC Gen1</p>
     </div>
     <div class="item">
         <img src="image/lab/MyLabInHust.png" width="480" height="400" >
-        <p>The Week Typology of HSC Gen1.</p>
+        <p>The Week Typology of HSC Gen1</p>
     </div>
 </div>
-<center>Hyper Simulation Center Gen1 </center>
+<center>Hyper Simulation Center Gen1</center>
 }}
 
 

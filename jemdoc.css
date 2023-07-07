@@ -428,6 +428,7 @@ table.imgtable, table.imgtable td {
 }
 .item {
 	flex-shrink: 1; /* 防止图片缩小 */
+	aspect-ratio: auto;
 	margin-right: 10px; /* 添加右边距 */
 	text-align: center; /* 图片和题目居中对齐 */
 }

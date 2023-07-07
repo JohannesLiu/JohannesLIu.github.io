@@ -428,7 +428,6 @@ table.imgtable, table.imgtable td {
 }
 .item {
 	flex-shrink: 1; /* 防止图片缩小 */
-	aspect-ratio: auto;
 	margin-right: 10px; /* 添加右边距 */
 	text-align: center; /* 图片和题目居中对齐 */
 }
@@ -439,4 +438,5 @@ table.imgtable, table.imgtable td {
 	max-width: 100%; /* 图片最大宽度为容器的1/3 */
 	display: block; /* 去除图片默认的行内元素间距 */
 	margin-bottom: 5px; /* 添加下边距 */
+	aspect-ratio: auto;
 }
